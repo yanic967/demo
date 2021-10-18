@@ -1,0 +1,46 @@
+Artillerietruppe: Color.fromRGBO(160, 39, 37, 1)
+ABC-Abwehrtruppe: (105,25,59, 1)
+Panzertruppe: (204,81,9, 1)
+Heeresaufklärungstruppe: (255,166,0, 1)
+Feldjägertruppe: (232,84,13,1)
+Fernmeldetruppe: (253,218,56,1)
+Jägertruppe, Fallschirmjäger, Panzergrenadiere, Gebirgsjäger: (0,111,67,1)
+Logistiktruppe, Heereslogistik: (0,111,67,1)
+Sanitätstruppe, Sanitätsdienst Heer: (32,46,83,1)
+Heeresfliegertruppe: (126,128,130,1)
+Pioniertruppe: (31,33,38,1)
+Militärmusikdienst: (244,244,237,1) 
+Luftwaffenuniformträger: (255,166,0,1) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// BARETTFARBEN
+
+Jäger, Panzergrenadiere, Wachbataillon:
+Panzertruppe, Heeresaufklärer:
+Artillerie, Pioniere, Fernmelder, Fernmelder EloKa, Heereslogistiktruppen, ABC-Abwehr, Feldjäger, Operative Kommunikation: 
+Fallschirmjäger, Kommando Spezialkräfte, Fernspäher, Heeresflieger: 
+Sanitätsdienst: 
+Objektschutz der Luftwaffe, Seebataillon, Multinationale Einheiten, Offizierausbildungseinheiten:
